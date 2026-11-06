@@ -1,0 +1,34 @@
+text,category,priority
+my order has not arrived when possible,Shipping,Low
+my account has been locked not urgent,Account,Low
+the application keeps crashing at your convenience,Technical,Low
+i was charged twice for my payment not urgent,Billing,Low
+my order has not arrived urgent,Shipping,High
+i need to change my email address this is an emergency,Account,High
+i want to track my shipment when possible,Shipping,Low
+please process my cancellation urgent,Cancellation,High
+i was charged twice for my payment urgent,Billing,High
+the package is delayed this is an emergency,Shipping,High
+i cannot access my account not urgent,Account,Low
+please process my cancellation i need assistance,Cancellation,Medium
+my invoice amount is incorrect when possible,Billing,Low
+my order has not arrived not urgent,Shipping,Low
+i was charged twice for my payment please help me soon,Billing,Medium
+my delivery address is incorrect this is important,Shipping,Medium
+my invoice amount is incorrect please help me soon,Billing,Medium
+i want to stop my service this is important,Cancellation,Medium
+how can i cancel my purchase? immediately,Cancellation,High
+i want to cancel my order urgent,Cancellation,High
+the software is not working properly when possible,Technical,Low
+i am getting an unexpected error immediately,Technical,High
+the application keeps crashing i need assistance,Technical,Medium
+payment failed but money was deducted urgent,Billing,High
+how can i cancel my purchase? this is an emergency,Cancellation,High
+the application keeps crashing not urgent,Technical,Low
+the page is loading very slowly i need assistance,Technical,Medium
+payment failed but money was deducted this is an emergency,Billing,High
+the package is delayed not urgent,Shipping,Low
+my account has been locked please help me soon,Account,Medium
+i am getting an unexpected error this is an emergency,Technical,High
+i need to change my email address not urgent,Account,Low
+i want to reset my password at your convenience,Account,Low
