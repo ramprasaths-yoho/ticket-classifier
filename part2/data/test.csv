@@ -1,0 +1,34 @@
+text,category,priority
+my account has been locked at your convenience,Account,Low
+how can i cancel my purchase? when possible,Cancellation,Low
+how can i cancel my purchase? not urgent,Cancellation,Low
+the application keeps crashing this is an emergency,Technical,High
+my delivery address is incorrect at your convenience,Shipping,Low
+i cannot update my profile this is important,Account,Medium
+my account has been locked this is an emergency,Account,High
+please process my cancellation this is an emergency,Cancellation,High
+my order has not arrived this is important,Shipping,Medium
+my delivery address is incorrect i need assistance,Shipping,Medium
+i am getting an unexpected error please help me soon,Technical,Medium
+the page is loading very slowly when possible,Technical,Low
+i have a question about my subscription bill this is an emergency,Billing,High
+i cannot update my profile immediately,Account,High
+i received the wrong product i need assistance,Shipping,Medium
+the page is loading very slowly please help me soon,Technical,Medium
+i want to cancel my order this is important,Cancellation,Medium
+i want to reset my password please help me soon,Account,Medium
+my delivery address is incorrect when possible,Shipping,Low
+how can i cancel my purchase? this is important,Cancellation,Medium
+i want to stop my service please help me soon,Cancellation,Medium
+i need a refund for my order urgent,Billing,High
+i have a question about my subscription bill not urgent,Billing,Low
+i have a question about my subscription bill at your convenience,Billing,Low
+i am getting an unexpected error i need assistance,Technical,Medium
+i want to track my shipment at your convenience,Shipping,Low
+payment failed but money was deducted this is important,Billing,Medium
+i cannot update my profile at your convenience,Account,Low
+i received the wrong product when possible,Shipping,Low
+i want to reset my password immediately,Account,High
+my invoice amount is incorrect this is an emergency,Billing,High
+how can i cancel my purchase? urgent,Cancellation,High
+i am getting an unexpected error at your convenience,Technical,Low

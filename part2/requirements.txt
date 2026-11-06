@@ -1,0 +1,11 @@
+torch
+transformers>=4.41
+accelerate>=0.26
+scikit-learn
+pandas
+joblib
+fastapi
+uvicorn[standard]
+pydantic>=2
+httpx
+pytest
